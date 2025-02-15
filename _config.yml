@@ -3,15 +3,14 @@
 title: Uncover NextGen
 
 # Your name to show in the footer
-author: Some Person
+author: Mursal Mateen
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About Me: "IT Passionate"
   Linkedin Page: "https://www.linkedin.com/company/uncover-nextgen"
 
 ################
