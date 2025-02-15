@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: "About Me"
+permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Hi, I'm Mursal Mateen 👋  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm passionate about **technology, game development, and cybersecurity**. My goal is to **revolutionize the gaming industry in Pakistan** and support students by creating opportunities through tech competitions.  
 
-What else do you need?
+I'm the founder of **[Uncover NextGen](https://www.linkedin.com/company/uncover-nextgen)**, where I share insights on **emerging technologies** and promote innovation. Additionally, I'm working on **AceArena**, a platform for **hosting online coding competitions** and, in the future, **game development projects**.  
 
-### My story
+### 🚀 My Interests  
+- **Game Development** 🎮  
+- **Cybersecurity** 🔐  
+- **Entrepreneurship & Tech Innovation** 🚀  
+- **Web Development** 🌍 (Currently learning!)  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 📬 Get in Touch  
+- **LinkedIn:** [Uncover NextGen](https://www.linkedin.com/company/uncover-nextgen)  
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+
+Let's build the future of tech together! 💡✨  
