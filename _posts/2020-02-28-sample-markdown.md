@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: Innovation distinguishes between a leader and a follower
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -11,7 +11,9 @@ author: Mursal Mateen
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Technology is constantly evolving, shaping the way we live, work, and create. Embracing innovation means staying ahead, learning new skills, and adapting to change. Whether you're coding your first project or exploring the latest advancements, every step forward brings new possibilities. 🚀
+
+Stay curious, keep learning, and build something amazing!
 
 **Here is some bold text**
 
